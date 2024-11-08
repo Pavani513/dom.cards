@@ -1,0 +1,9 @@
+#pink,#red{
+    width: 280px;
+    height: 350px;
+}
+#pink img,#red img{
+    width:100%;
+    height: 70%;
+
+}
